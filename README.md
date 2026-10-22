@@ -116,7 +116,7 @@ I believe in **learning by doing**. Theory without practice is forgotten. Practi
 
 I'm always open to discussing smart contract security, audit opportunities, or collaborating on research.
 
-- 📧 **Email:** [elvatar24@email.com](mailto:elvatar24@Gmail.com)
+- 📧 **Email:** [elvatar24@Gmail.com](mailto:elvatar24@Gmail.com)
 - ✈️ **Telegram:** [@Elvatar](https://t.me/Elvatar)
 
 ## 📜 License
